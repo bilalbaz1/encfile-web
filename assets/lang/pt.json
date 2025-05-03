@@ -1,0 +1,26 @@
+{
+    "HomePage": {
+        "enterP": "Digite a senha e o nome do arquivo.",
+        "fileSave1": "Salvar o arquivo criptografado",
+        "fileSave2": "Arquivo criptografado salvo.",
+        "select2": "Por favor, selecione um arquivo .crypto.",
+        "err2": "O arquivo está vazio.",
+        "err3": "Nenhuma pasta selecionada, operação cancelada.",
+        "success1": "Arquivos descriptografados com sucesso.",
+        "select3": "Arraste os arquivos aqui",
+        "t1": "Arraste aqui os arquivos que deseja criptografar.",
+        "t2": "Se quiser descriptografar um arquivo criptografado, arraste o arquivo .crypto aqui.",
+        "b1": "Selecionar arquivo",
+        "b2": "Senha",
+        "b3": "Nome do arquivo de saída",
+        "b4": "Cancelar",
+        "b5": "Exportar",
+        "b6": "Descriptografar",
+        "b7": "Criptografar",
+        "openS": "Código Aberto",
+        "onlineWeb": "Você pode criptografar e descriptografar arquivos através do site",
+        "select1": "Por favor, insira a senha.",
+        "err1": "Falha na descriptografia. Verifique a senha.",
+        "filePermissionErr1": "Por favor, conceda permissão de acesso a arquivos. Verifique as permissões do aplicativo nas configurações do seu dispositivo."
+    }
+}

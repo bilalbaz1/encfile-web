@@ -1,0 +1,26 @@
+{
+    "HomePage": {
+        "enterP": "Entrez le mot de passe et le nom du fichier.",
+        "fileSave1": "Enregistrer le fichier chiffré",
+        "fileSave2": "Fichier chiffré enregistré.",
+        "select2": "Veuillez sélectionner un fichier .crypto.",
+        "err2": "Le fichier est vide.",
+        "err3": "Aucun dossier sélectionné, opération annulée.",
+        "success1": "Fichiers déchiffrés avec succès.",
+        "select3": "Glissez les fichiers ici",
+        "t1": "Glissez ici les fichiers que vous souhaitez chiffrer.",
+        "t2": "Si vous souhaitez déchiffrer un fichier chiffré, glissez le fichier .crypto ici.",
+        "b1": "Sélectionner un fichier",
+        "b2": "Mot de passe",
+        "b3": "Nom du fichier de sortie",
+        "b4": "Annuler",
+        "b5": "Exporter",
+        "b6": "Déchiffrer",
+        "b7": "Chiffrer",
+        "openS": "Open Source",
+        "onlineWeb": "Vous pouvez chiffrer et déchiffrer des fichiers via le site web",
+        "select1": "Veuillez entrer le mot de passe.",
+        "err1": "Échec du déchiffrement. Veuillez vérifier le mot de passe.",
+        "filePermissionErr1": "Veuillez accorder l'autorisation d'accès aux fichiers. Vérifiez les autorisations de l'application dans les paramètres de votre appareil."
+    }
+}
